@@ -20,3 +20,5 @@ yarn install
 ```sh
 npm run serve
 ```
+
+- A aplicação irá rodar em http://localhost:8081/
